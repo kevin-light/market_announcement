@@ -1,0 +1,6 @@
+2018-08-20 12:52:38,099-/Users/san/Documents/company/crawler/market_announcement/market_announcement/spiders/stocks_annc.py[lineno)d]-DEBUG:unpack requires a buffer of 8 bytes
+2018-08-20 12:57:20,120-/Users/san/Documents/company/crawler/market_announcement/market_announcement/spiders/stocks_annc.py[lineno)d]-DEBUG:unpack requires a buffer of 8 bytes
+2018-08-20 13:06:01,975-/Users/san/Documents/company/crawler/market_announcement/market_announcement/spiders/stocks_annc.py[lineno)d]-DEBUG:stream with no endstream
+2018-08-20 13:17:56,640-/Users/san/Documents/company/crawler/market_announcement/market_announcement/spiders/stocks_annc.py[lineno)d]-DEBUG:Invalid object number: objid=2
+2018-08-20 15:55:58,828-/Users/san/Documents/company/crawler/market_announcement/market_announcement/spiders/stocks_annc.py[lineno)d]-DEBUG:[Errno 54] Connection reset by peer
+2018-08-20 17:55:29,059-/Users/san/Documents/company/crawler/market_announcement/market_announcement/spiders/stocks_annc.py[lineno)d]-DEBUG:Invalid object number: objid=2
